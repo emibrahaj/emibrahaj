@@ -12,6 +12,8 @@ i studied software engineering at epoka university.
   household waste across 30 categories.
 
 ### my toolkit
-<img src="https://skillicons.dev/icons?i=java,python,ts,react,fastapi,mysql,git" alt="java, python, typescript, react, fastapi, mysql, git" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css" alt="languages" />
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,mysql,tensorflow,git" alt="frameworks, databases, and tools" />
 
 [let's connect](mailto:brahajemi@gmail.com)
